@@ -9,7 +9,6 @@ A simple Node.js + Express + MySQL API for Lab 3 that implements user signup, lo
 - **Auth:** JWT (jsonwebtoken) + bcrypt (bcryptjs)  
 - **Token revocation:** stored `jti` in `revoked_tokens` table  
 
-> **Note:** Database `lab_auth` and tables (`users`, `revoked_tokens`) should already exist.
 
 ## How to Run (Quick)
 
